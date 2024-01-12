@@ -88,8 +88,8 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/NareshKumar1553/github-readme-stats"><img alt="Nares's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=NareshKumar1553&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/NareshKumar1553/github-readme-stats"><img alt="NareshKumar1553's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshKumar1553&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/Praveen2404/github-readme-stats"><img alt="Nares's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Praveen2404&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/Praveen2404/github-readme-stats"><img alt="Praveen2404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen2404&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -97,7 +97,7 @@
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Naresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NareshKumar1553&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/NareshKumar1553/github-readme-activity-graph)
+[![Naresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Praveen2404&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/Praveen2404/github-readme-activity-graph)
 
 </details>
 
@@ -105,7 +105,7 @@
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=NareshKumar1553&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=Praveen2404&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
@@ -113,7 +113,7 @@
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NareshKumar1553&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Praveen2404&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
