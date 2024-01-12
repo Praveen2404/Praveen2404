@@ -54,10 +54,6 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React-Native" />
-      <br>React-Native 
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
@@ -70,41 +66,17 @@
       <br>Bootstrap
     </td>
      </tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="react" />
-      <br>React-JS
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=eclipse" width="65" height="65" alt="eclipse" />
       <br>Eclipse
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="flutter" />
-      <br>Flutter
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="java" />
       <br>Java
     </td>
-        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="nodejs" />
-      <br>NodeJS
-    </td>
             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
-    </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="65" height="65" alt="dart" />
-      <br>Dart
-    </td>
-     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TS" />
-      <br>TypeScript
     </td>
   </tr>
  <tr>
